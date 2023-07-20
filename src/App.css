@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.font-link{
+  font-family: 'Cedarville Cursive', cursive;
+}
+
+.form-check-input{
+  cursor: pointer;
+}
